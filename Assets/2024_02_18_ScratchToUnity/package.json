@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.scratchtounity",                              
+  "displayName": "Scratch To Unity",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Toolboxes that mirro scratch to teach how to go from scratch to unity. Also very useful as a tool to work in deed.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_02_18_ScratchToUnity.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
